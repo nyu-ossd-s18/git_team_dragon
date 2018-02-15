@@ -20,3 +20,8 @@ origin	https://github.com/nyu-ossd-s18/git_team_dragon.git (push)
 suyasha0	https://github.com/suyasha0/git_team_dragon.git (fetch)  
 suyasha0	https://github.com/suyasha0/git_team_dragon.git (push)  
 
+ryan@ryborg:~/Documents/git_team_dragon$ git branch another_branch
+ryan@ryborg:~/Documents/git_team_dragon$ git branch
+  another_branch
+* master
+
